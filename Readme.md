@@ -4,12 +4,12 @@ Show errors in php in nicely way, take error information like message, file, and
 
 ### How to use?
 
-It's sample to use, just require ErrorHandlarPHP.php in top of your file and that's it work.
+It's sample to use, just require PHPErrorHandler.php in top of your file and that's it work.
 
-#### Before using Error Handlar
+#### Before using Error Handler
 
-![Before using Error Handlar](Images/before_using_ErrorHandlarPHP.png)
+![Before using Error Handler](Images/before_using_ErrorHandlarPHP.png)
 
-#### After using Error Handlar
+#### After using Error Handler
 
-![After using Error Handlar](Images/after_using_ErrorHandlarPHP.png)
+![After using Error Handler](Images/after_using_ErrorHandlarPHP.png)
