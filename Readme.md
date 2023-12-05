@@ -8,8 +8,8 @@ It's sample to use, just require ErrorHandlarPHP.php in top of your file and tha
 
 #### Before using Error Handlar
 
-![Before using Error Handlar](Images/before_using_ErrorHandlarPHP.png.png)
+![Before using Error Handlar](Images/before_using_ErrorHandlarPHP.png)
 
 #### After using Error Handlar
 
-![After using Error Handlar](Images/after_using_ErrorHandlarPHP.png.png)
+![After using Error Handlar](Images/after_using_ErrorHandlarPHP.png)
